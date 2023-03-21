@@ -15,7 +15,8 @@ export default function Home() {
   return (
     <>
       {/*Меню навигации - Header*/}
-      <Header pageTheme="simple" />
+
+      <Header pageTheme='general' />
 
       {/*Первый блок*/}
 
