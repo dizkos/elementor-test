@@ -1,0 +1,51 @@
+.s {
+  width: 170px;
+  height: 170px;
+}
+.m {
+  width: 240px;
+  height: 300px;
+}
+.l {
+  width: 470px;
+  height: 332px;
+}
+.xl {
+  width: 540px;
+  height: 286px;
+}
+
+/*Закругления углов картинок*/
+.top-left-80 {
+  border-top-left-radius: 80px;
+}
+.top-right-80 {
+  border-top-right-radius: 80px;
+}
+.bottom-left-80 {
+  border-bottom-left-radius: 80px;
+}
+.bottom-right-80 {
+  border-bottom-right-radius: 80px;
+}
+.diagonal-80 {
+  border-top-left-radius: 80px;
+  border-bottom-right-radius: 80px;
+}
+
+.top-left-120 {
+  border-top-left-radius: 120px;
+}
+.top-right-120 {
+  border-top-right-radius: 120px;
+}
+.bottom-left-120 {
+  border-bottom-left-radius: 120px;
+}
+.bottom-right-120 {
+  border-bottom-right-radius: 120px;
+}
+.diagonal-120 {
+  border-top-left-radius: 120px;
+  border-bottom-right-radius: 120px;
+}

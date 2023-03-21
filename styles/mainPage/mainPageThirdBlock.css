@@ -1,0 +1,16 @@
+/*Третий блок Главной страницы*/
+
+.thirdBlock {
+  display: flex;
+  gap: 130px;
+  padding-right: 205px;
+  background-color: var(--color-green);
+}
+
+.thirdBlockText {
+  display: flex;
+  flex-direction: column;
+}
+.thirdBlockText Button {
+  margin-top: 60px;
+}

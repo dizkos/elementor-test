@@ -1,0 +1,12 @@
+.socialIcons {
+  display: flex;
+  gap: 30px;
+  cursor: pointer;
+}
+
+.vertical {
+  flex-direction: column;
+}
+.horizontal {
+  flex-direction: row;
+}

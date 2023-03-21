@@ -1,0 +1,40 @@
+.button {
+  width: 230px;
+  height: 56px;
+
+  border: none;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+
+  cursor: pointer;
+}
+
+.orange {
+  background-color: var(--color-orange);
+}
+.orange:hover {
+  background-color: #f5a759;
+}
+.orange:active {
+  background-color: #c5915e;
+}
+
+.green {
+  background-color: var(--color-green);
+}
+.green:hover {
+  background-color: #1bd69b;
+}
+.green:active {
+  background-color: #25b386;
+}
+
+.center {
+  align-self: center;
+}
+.left {
+  align-self: left;
+}
+.right {
+  align-self: right;
+}

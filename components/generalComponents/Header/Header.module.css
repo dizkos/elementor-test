@@ -1,0 +1,32 @@
+.header li {
+  color: var(--color-dark-blue);
+}
+
+.headerGeneral {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  background-color: #10b582;
+}
+.headerSimple {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+/*Меню навигации*/
+
+.mainMenu {
+  display: flex;
+  justify-content: space-between;
+  min-width: 600px;
+  padding: 40px 0 30px;
+}
+.mainMenu a {
+  padding-bottom: 8px;
+  color: var(--color-white);
+}
+.mainMenu a:hover {
+  border-bottom: 2px dashed #fa9f42;
+  margin-bottom: -2px;
+}

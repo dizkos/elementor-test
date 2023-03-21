@@ -1,0 +1,6 @@
+.white {
+  fill: var(--color-white);
+}
+.gray {
+  fill: var(--color-gray);
+}

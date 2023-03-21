@@ -1,0 +1,17 @@
+.tableCourses {
+  display: flex;
+
+  justify-content: center;
+  gap: 30px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 270px;
+  height: 226px;
+  padding: 20px;
+  background-color: var(--color-white);
+  border-radius: 10px;
+}

@@ -1,0 +1,15 @@
+.LogoEmentor {
+  display: flex;
+  gap: 12px;
+}
+.logo {
+  width: 28px;
+  height: 22px;
+}
+
+.dark-blue {
+  color: var(--color-dark-blue);
+}
+.white {
+  color: var(--color-white);
+}

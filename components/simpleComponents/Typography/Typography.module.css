@@ -1,0 +1,64 @@
+.typography {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.dark-blue {
+  color: var(--color-dark-blue);
+}
+.light-gray {
+  color: var(--color-white);
+}
+.green {
+  color: var(--color-green);
+}
+.white {
+  color: var(--color-white);
+}
+
+.center {
+  text-align: center;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+
+.s14 {
+  font-size: 14px;
+}
+.s16 {
+  font-size: 16px;
+}
+.s22 {
+  font-size: 22px;
+  font-weight: 500;
+}
+.header {
+  font-size: 58px;
+  font-weight: 500;
+
+  margin-bottom: 20px;
+}
+
+.lh14 {
+  line-height: 14px;
+}
+.lh16 {
+  line-height: 16px;
+}
+.lh18 {
+  line-height: 18.2px;
+}
+.lh24 {
+  line-height: 24px;
+}
+.lh58 {
+  line-height: 58px;
+}
+.lh69 {
+  line-height: 69.9px;
+}

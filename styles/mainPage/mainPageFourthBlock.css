@@ -1,0 +1,8 @@
+.fourthBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.fourthBlock div:first-child {
+  margin-bottom: 60px;
+}
